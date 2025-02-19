@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Welcome to Javanvim
+----------
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+### What is Javanvim?
+Javanvim is a simple plugin that gives neovim some nice functions while being extremely extensible for Java developers. Are there better plugins? Most likely, however this has simple functions for:
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* Creating New Projects
+* Creating New Files (With Class Generation)
+* Building Files (Currently only Main.java files)
+* Running Files (Again only Main.java files)
