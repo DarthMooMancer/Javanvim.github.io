@@ -1,1 +1,1 @@
-# Javanvim.github.io
+# Javanvim.docs
